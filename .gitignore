@@ -1,0 +1,14 @@
+# Binaries
+/go-mongo-auth
+*.exe
+*.test
+*.out
+
+# Env / secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
